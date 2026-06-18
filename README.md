@@ -8,8 +8,7 @@ Check out my recent projects!
   </summary>
 <br>
   
-* **Live App:** [View Application](https://app-link.com)
-* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
+ A simple frontend application made with React, Vite and Transformers.js that downloads a custom pre-trained model from HuggingFace and uses it to determine expence's category based on its bank message.
 </details>
 
 <details>
@@ -19,16 +18,21 @@ Check out my recent projects!
 <br>
 
 
-* **Live App:** [View Application](https://app-link.com)
-* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
+* Full-Stack Web Application for the [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) game
+* Built with TypeScript, Fastify and PostgreSQL on Backend and TypeScript, React, Vite on Frontend
+* Uses REST API endpoints and WebSocket connection for client-server communication, implements JWT for authorization
+* Implements Drag-and-Drop for ships placement
+* [Read more](https://github.com/Kak0ytachel/BattleshipFronten) 
 </details>
 
 
 <details>
 <summary><b>SimpleWeather</b> (April 2026) | <a href="https://github.com/Kak0ytachel/SimpleWeather">Repo</a> | <a href="https://weather.chel0.dev/">App</a></summary>
 <br>
-
-A collaborative project management tool inspired by Kanban boards. This application supports user authentication, drag-and-drop task movement, and real-time collaborative editing using WebSockets. Optimized for mobile and desktop screens.
+  
+   * Responsive Front-end only application for browsing weather. 
+   * Built with JavaScript, React, Vite and OpenMeteo API.
+  <!-- Check out the [Repo](https://github.com/Kak0ytachel/SimpleWeather) for more info and the [App](https://weather.chel0.dev/) itself  -->
 </details>
 
 <details>
@@ -37,9 +41,7 @@ A collaborative project management tool inspired by Kanban boards. This applicat
   </summary>
 <br>
 
-
-* **Live App:** [View Application](https://app-link.com)
-* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
+A simple React application of a working calculator 
 </details>
 
 <details>
@@ -48,8 +50,8 @@ A collaborative project management tool inspired by Kanban boards. This applicat
   </summary>
 <br>
   
-* **Live App:** [View Application](https://app-link.com)
-* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
+* Simple web app for convenient univercity lecture schedule
+* Built with Python, MySQL, FastAPI and Jinja2 (Server-Side Rendering)
 </details>
 
 <!--
