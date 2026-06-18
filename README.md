@@ -22,7 +22,7 @@ Check out my recent projects!
 * Built with TypeScript, Fastify and PostgreSQL on Backend and TypeScript, React, Vite on Frontend
 * Uses REST API endpoints and WebSocket connection for client-server communication, implements JWT for authorization
 * Implements Drag-and-Drop for ships placement
-* [Read more](https://github.com/Kak0ytachel/BattleshipFronten) 
+* [Read more](https://github.com/Kak0ytachel/BattleshipFrontend) 
 </details>
 
 
