@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-Check out my [recent projects](https://github.com/Kak0ytachel/Kak0ytachel/blob/main/RECENT.md)! 
+Check out my recent projects! 
+
 <details>
-<summary><b>Project Name</b> (Month Year) — <a href="https://github.com/yourusername/repo">Repository</a></summary>
+  <summary>
+    <b>ExpenseNLPAnalizer</b> (June 2026) - <a href="https://github.com/Kak0ytachel/ExpenseNLPAnalizer">Repo</a> | <a href="https://kak0ytachel.github.io/ExpenseNLPAnalizer/">App</a>
+  </summary>
 <br>
   
 * **Live App:** [View Application](https://app-link.com)
@@ -10,7 +13,9 @@ Check out my [recent projects](https://github.com/Kak0ytachel/Kak0ytachel/blob/m
 </details>
 
 <details>
-<summary><b>Project Name</b> (Month Year) — <a href="https://github.com/yourusername/repo">Repository</a></summary>
+  <summary>
+    <b> ⭐ Battleship</b> (May 2026) - <a href="https://github.com/Kak0ytachel/BattleshipFrontend">Frontend</a> | <a href="https://github.com/Kak0ytachel/BattleshipBackend">Backend</a> | <a href="https://wm.chel0.dev/">App</a>*
+  </summary>
 <br>
 
 
@@ -20,10 +25,31 @@ Check out my [recent projects](https://github.com/Kak0ytachel/Kak0ytachel/blob/m
 
 
 <details>
-<summary><b>TaskFlow Project Manager</b> (January 2026) | <a href="https://github.com/yourusername/your-repo">Repo</a> | <a href="https://live-app.com">Live App</a></summary>
+<summary><b>SimpleWeather</b> (April 2026) | <a href="https://github.com/Kak0ytachel/SimpleWeather">Repo</a> | <a href="https://weather.chel0.dev/">App</a></summary>
 <br>
 
 A collaborative project management tool inspired by Kanban boards. This application supports user authentication, drag-and-drop task movement, and real-time collaborative editing using WebSockets. Optimized for mobile and desktop screens.
+</details>
+
+<details>
+  <summary>
+    <b> reactCalc</b> (March 2026) - <a href="https://github.com/Kak0ytachel/reactCalc">Repo</a> | <a href="https://kak0ytachel.github.io/reactCalc/">App</a>
+  </summary>
+<br>
+
+
+* **Live App:** [View Application](https://app-link.com)
+* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
+</details>
+
+<details>
+  <summary>
+    <b>MckSchedule</b> (Dec 2025 - Feb 2026) - <a href="https://github.com/Kak0ytachel/MckSchedule">Repo</a>
+  </summary>
+<br>
+  
+* **Live App:** [View Application](https://app-link.com)
+* **Description:** A quick breakdown of the project. Because it's hidden behind a drop-down, you can actually afford to include a bit more detail here (like core features or your specific role) without cluttering your main profile page.
 </details>
 
 <!--
