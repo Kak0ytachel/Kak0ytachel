@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Check out my [recent projects](https://github.com/Kak0ytachel/Kak0ytachel/blob/main/RECENT.md)! 
+
 <!--
 **Kak0ytachel/Kak0ytachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
